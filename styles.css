@@ -1,7 +1,6 @@
 body {
     font-family: Georgia, serif;
     margin: 20px;
-    line-height: 10px;
 }
 h1{
     display: none;
@@ -28,23 +27,14 @@ h1{
     background: #d7bcc8;
     border-bottom: 10px solid #629677;
     border-radius: 20px;
-    inline height: 10px;
 }
 .card-text{
     color: #629677;
     width: 300px;
-    display: inline; 
-    padding: 10px;
     margin: 10px auto 0px 10px;
     text-align: center;
-    line-height: .1em;
 }
 h4{
     font-weight: normal;
     font-family: Brush Script MT;
-}
-@-moz-document url-prefix() {
-    .card-text{
-        font-size: .8em;
-    }
 }
