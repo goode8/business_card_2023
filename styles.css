@@ -37,14 +37,9 @@ h1{
     padding: 10px;
     margin: 10px auto 0px 10px;
     text-align: center;
-    line-height: .1em;
+    
 }
 h4{
     font-weight: normal;
     font-family: Brush Script MT;
-}
-@-moz-document url-prefix() {
-    .card-text{
-        font-size: .8em;
-    }
 }
