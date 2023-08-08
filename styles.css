@@ -16,6 +16,9 @@ h1{
 .avatar{
     border: 5px solid #629677;
     border-radius: 20px;
+    object-fit: contain;
+    width: 40%;
+    height: 40%;
 }
 .card{
     width: 400px;
@@ -27,6 +30,7 @@ h1{
     background: #d7bcc8;
     border-bottom: 10px solid #629677;
     border-radius: 20px;
+    
 }
 .card-text{
     color: #629677;
